@@ -62,7 +62,7 @@ body {
   height: 450px;
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
-  background-image: url(/images/image-product-desktop.jpg);
+  background-image: url("../images/image-product-desktop.jpg");
   background-size: cover;
 }
 
@@ -163,7 +163,7 @@ button:hover {
     border-bottom-left-radius: 0px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 0px;
-    background-image: url(/images/image-product-mobile.jpg);
+    background-image: url("../images/image-product-mobile.jpg");
   }
   .main-card__text {
     width: 344px;
